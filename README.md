@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🧠 Skill Creator Ultra</h1>
+  <h1 align="center">🧠 Skill Generator Ultra</h1>
   <p align="center">
     <strong>The most comprehensive AI Skill creation toolkit on the market.</strong><br/>
     <em>Bộ công cụ tạo AI Skill toàn diện nhất trên thị trường.</em>
